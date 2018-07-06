@@ -14,14 +14,15 @@ Summary: Toolkit for building high-level compound widgets in Python using the Tk
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pmw-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pmw-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pmw-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pmw-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pmw-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pmw-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pmw-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pmw-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pmw/badges/version.svg)](https://anaconda.org/conda-forge/pmw)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pmw/badges/downloads.svg)](https://anaconda.org/conda-forge/pmw)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pmw-green.svg)](https://anaconda.org/conda-forge/pmw) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pmw.svg)](https://anaconda.org/conda-forge/pmw) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pmw.svg)](https://anaconda.org/conda-forge/pmw) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pmw.svg)](https://anaconda.org/conda-forge/pmw) |
 
 Installing pmw
 ==============
