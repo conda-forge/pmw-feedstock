@@ -32,7 +32,7 @@ test:
   imports:
     - Pmw
   requires:
-    - xorg-libx11  # [python_impl == 'pypy']
+    - xorg-libx11  # [unix]
 
 about:
   home: http://pmw.sourceforge.net/
